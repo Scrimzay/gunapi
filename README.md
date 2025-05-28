@@ -1,4 +1,4 @@
-the worlds best gun api for gun ehthusiasts. its very simple, creates a sqlite3 db (db included in repo), adds info to the db, then makes db calls based on the endpoint visited. very simple and cool.
+the worlds best gun api for gun ethusiasts. its very simple, creates a sqlite3 db (db included in repo), adds info to the db, then makes db calls based on the endpoint visited. very simple and cool.
 
 how to use:
 
